@@ -758,10 +758,10 @@ body.trx_addons_cv {
     letter-spacing: 1.2px;
 }
 .sc_item_subtitle + .sc_item_title {
-    line-height: 0.92;
+    line-height: 1.22;
 }
 h2.sc_item_title.sc_item_title_style_default:not(.sc_item_title_tag) {
-	font-size: 4.643rem;
+	font-size: 2.643rem;
 }
 .sc_item_subtitle + .sc_item_title {
     margin-top: 0.3em;
@@ -2257,7 +2257,7 @@ body .sc_services_default .sc_services_item_featured_top .sc_services_item_butto
     padding-left: 13.1rem;
 }
 .vc_row-no-padding .sc_services_default .with_number .sc_services_item_info {
-    padding: 8.7em 8.4em 8em 8.4em;
+    padding: 8.7em 2.4em 8em 8.4em;
     text-align: left;
 }
 .vc_row-no-padding .sc_services_default .with_number .sc_services_item_content {
