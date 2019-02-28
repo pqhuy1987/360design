@@ -866,8 +866,8 @@ figure.alignright {
 .vc_row,
 .row.columns_padding_center,
 .columns_wrap.columns_padding_center {
-  margin-left: -15px;
-  margin-right: -15px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .vc_column_container > .vc_column-inner,
 .row.columns_padding_center > [class*="column-"], .columns_wrap.columns_padding_center > [class*="column-"],
