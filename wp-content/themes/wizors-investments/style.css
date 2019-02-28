@@ -809,8 +809,8 @@ figure.alignright {
   padding-right: 15px;
 }
 .row, .columns_wrap {
-  margin-left: 0px;
-  margin-right: -30px;
+  margin-left: 150px;
+  margin-right: -10px;
 }
 .row > [class*="column-"],
 .columns_wrap > [class*="column-"] {
@@ -4371,7 +4371,7 @@ ul.instagram-pics li:before {
 }
 .footer_wrap .widget_contacts .contacts_logo{
     margin-top: 0.4em;
-    width: 255px;
+    width: 175px;
 }
 .footer_wrap .widget_contacts[class*="column-"] .contacts_description{
     margin-top: 3.6em;
